@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\bin\Debug\net6.0\Repasoo1.exe
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\bin\Debug\net6.0\Repasoo1.deps.json
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\bin\Debug\net6.0\Repasoo1.runtimeconfig.json
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\bin\Debug\net6.0\Repasoo1.dll
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\bin\Debug\net6.0\Repasoo1.pdb
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\obj\Debug\net6.0\Repasoo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\obj\Debug\net6.0\Repasoo1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\obj\Debug\net6.0\Repasoo1.AssemblyInfo.cs
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\obj\Debug\net6.0\Repasoo1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\obj\Debug\net6.0\Repasoo1.dll
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\obj\Debug\net6.0\refint\Repasoo1.dll
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\obj\Debug\net6.0\Repasoo1.pdb
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\obj\Debug\net6.0\Repasoo1.genruntimeconfig.cache
+C:\Users\hp\source\repos\Repasoo1\Repasoo1\obj\Debug\net6.0\ref\Repasoo1.dll
